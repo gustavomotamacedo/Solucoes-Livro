@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.FormMatriculaDeAlunos.resources
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\bin\Debug\MatriculaDeAlunos.exe.config
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\bin\Debug\MatriculaDeAlunos.exe
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\bin\Debug\MatriculaDeAlunos.pdb
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.exe
+C:\Users\gusta\Documents\GitHub\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.pdb

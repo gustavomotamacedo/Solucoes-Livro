@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.frmRestoDeDivisao.resources
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb

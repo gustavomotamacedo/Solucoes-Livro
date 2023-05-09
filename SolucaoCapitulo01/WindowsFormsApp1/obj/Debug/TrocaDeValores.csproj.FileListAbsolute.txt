@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\obj\Debug\TrocaDeValores.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\obj\Debug\TrocaDeValores.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\obj\Debug\TrocaDeValores.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\obj\Debug\TrocaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo01\WindowsFormsApp1\obj\Debug\TrocaDeValores.frmTrocaDeValores.resources

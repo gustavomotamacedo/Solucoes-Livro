@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\bin\Debug\ConsumoDeEnergiaDeUmCondominio.exe.config
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\bin\Debug\ConsumoDeEnergiaDeUmCondominio.exe
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\bin\Debug\ConsumoDeEnergiaDeUmCondominio.pdb
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.FormConsumoDeEnergia.resources
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.exe
+C:\Users\gusta\Documents\GitHub\SolucaoCapitulo03\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.pdb

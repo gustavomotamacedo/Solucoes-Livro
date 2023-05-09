@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\obj\Debug\CategoriaPorIdadeV2.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\obj\Debug\CategoriaPorIdadeV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\obj\Debug\MatriculaDeAlunos.FormCategoriaPorIdadeV2.resources
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\obj\Debug\CategoriaPorIdadeV2.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\obj\Debug\CategoriaPorIdadeV2.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\obj\Debug\CategoriaPorIdadeV2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\bin\Debug\CategoriaPorIdadeV2.exe.config
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\bin\Debug\CategoriaPorIdadeV2.exe
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\bin\Debug\CategoriaPorIdadeV2.pdb
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\obj\Debug\CategoriaPorIdadeV2.exe
+C:\Users\gusta\Documents\GitHub\CategoriaPorIdadeV2\obj\Debug\CategoriaPorIdadeV2.pdb

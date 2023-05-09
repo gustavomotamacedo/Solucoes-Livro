@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.FormCalculoDoPesoIdeal.resources
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\bin\Debug\CalculoDoPesoIdeal.exe.config
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\bin\Debug\CalculoDoPesoIdeal.exe
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\bin\Debug\CalculoDoPesoIdeal.pdb
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.exe
+C:\Users\gusta\Documents\GitHub\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.pdb

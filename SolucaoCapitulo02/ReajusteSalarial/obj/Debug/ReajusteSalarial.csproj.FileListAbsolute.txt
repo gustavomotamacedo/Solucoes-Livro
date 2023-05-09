@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\obj\Debug\ReajusteSalarial.FormReajusteSalarial.resources
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\obj\Debug\ReajusteSalarial.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe.config
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\bin\Debug\ReajusteSalarial.pdb
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
+C:\Users\gusta\Documents\GitHub\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb
